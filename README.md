@@ -19,7 +19,6 @@ This project explores how social media usage impacts academic performance, menta
 ## 📎 Deliverables
 - `sm.ipynb` — The full EDA notebook
 - `Social_Media_Portfolio_Summary.docx` — Case study summary (insights + conclusion)
-- Visuals (optional: upload key plots as `.png` for quick viewing)
 
 ## 🚀 Highlights
 - Strong correlation (~0.6) between usage time and addiction score
